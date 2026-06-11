@@ -1,4 +1,4 @@
-﻿# NUML Certificate
+# NUML Certificate
 
 ## Description
 
